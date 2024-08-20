@@ -1,11 +1,12 @@
-**Title:** The Recent Changes in Licensing of Cockroach DB: Implications and the Need for a Well-Considered Open Source Software Model  
-**Description:** This article explores the recent changes in CockroachDB's licensing, their impact on startups, and the broader implications for open-source software models.  
-**Date:** 2024-08-20  
-**Author:**Luthfi
 
+| **Title**                                    | **CockroachDB’s Licensing Update: A Wake-Up for OSS**                                                                |
+|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Description**                              | This article explores the recent changes in CockroachDB's licensing, their impact on startups, and the broader implications for open-source software models. |
+| **Date**                                     | 2024-08-20                                                                                                           |
+| **Author**                                   | MohammedLuthfi                                                                                                       |
 ---
 
-# **CockroachDB's Licensing Changes: A Wake-Up Call for Open Source Models**
+# **CockroachDB’s Licensing Update: A Wake-Up for OSS**
 
 In August 2024, [Cockroach Labs](https://www.cockroachlabs.com/) made a significant move by altering the licensing of CockroachDB, a popular distributed SQL database. This change has sparked a conversation in the tech community, especially among startup CEOs who rely heavily on [open-source software (OSS)](https://www.daytona.io/dotfiles/building-a-successful-open-source-project) to build and scale their businesses. Traditionally, OSS has been valued for its accessibility and cost-effectiveness, but the shift in CockroachDB’s licensing terms serves as a reminder that these benefits can come with caveats.
 
@@ -68,5 +69,5 @@ This approach will help startups go through the challenges posed by evolving OSS
 * [TechCrunch Article on CockroachDB Licensing](https://techcrunch.com/2024/08/15/cockroach-labs-shakes-up-its-licensing-to-force-bigger-companies-to-pay/)  
 * [Hacker News Discussion](https://news.ycombinator.com/item?id=41256222)
 
-Note: Related New Article: The Role of Open Source in Startup Success
+Note: Possible New Article: The Role of Open Source in Startup Success
 
